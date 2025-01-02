@@ -6,16 +6,10 @@
 </h1>
 
 <h5 align="center">
-  <span style="display: inline-block; margin-right: 10px;">
-    <code><a href="https://www.linkedin.com/in/abdalrahman-abdahla-b24693215/" title="LinkedIn Profile">
-      <img width="22" src="images/linkedin.svg"> LinkedIn</a>
-    </code>
-  </span>
-  <span style="display: inline-block;">
-    <code><a href="mailto:hamodi90.com@gmail.com" title="Gmail">
-      <img width="22" src="images/google-gmail-svgrepo-com.svg"> Gmail</a>
-    </code>
-  </span>
+  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
 
