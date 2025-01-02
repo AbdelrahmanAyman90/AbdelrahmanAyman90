@@ -79,26 +79,6 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/AbdelrahmanAyman90/salaamNetwork" title="salamNetwork"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman90&repo=salaamNetwork&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/AbdelrahmanAyman90/habit_track" title="habit_track"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman90&repo=habit_track&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/AbdelrahmanAyman90/downYouTube" title="dwonTotub"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman90&repo=downYouTube&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AbdelrahmanAyman90/Voting_system" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman90&repo=Voting_system&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/AbdelrahmanAyman90/BookApp" title="bookapp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman90&repo=BookApp&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AbdelrahmanAyman90/Flutter_eCommerce_shop" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman90&repo=Flutter_eCommerce_shop&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
 
 
