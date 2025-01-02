@@ -19,14 +19,14 @@
 </h5>
 
 
-<p align="center">
+<p align="left">
   🎓 I am a software engineer graduated from <strong>Suez Canal University</strong>, Faculty of <strong>Computer Science</strong>.  
   <br>
   📚 I’m currently learning Computer Science and Software Engineering, especially <strong>Back-End Development</strong> and <strong>Mobile Application Development</strong>.  
   <br>
   🤓 Always eager to learn new things.  
   <br>
-  💻 I am a Problem Solver on <a href="https://codeforces.com">Codeforces</a>.  
+  💻 I am a Problem Solver on Codeforces 
   <br>
   <br>
   🤔 I’m currently open for a new <strong>job opportunity</strong>. You can view <a href="http://lnkiy.in/Ahmed_Hossam_Resume" target="_blank">MY RESUME</a>.  
