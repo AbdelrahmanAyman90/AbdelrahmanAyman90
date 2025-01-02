@@ -5,21 +5,12 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <span style="display: inline-block; margin-right: 10px;">
-    <code><a href="https://www.linkedin.com/in/abdalrahman-abdahla-b24693215/" title="LinkedIn Profile">
-      <img width="22" src="images/linkedin.svg"> LinkedIn</a>
-    </code>
-  </span>
-  <span style="display: inline-block;">
-    <code><a href="mailto:hamodi90.com@gmail.com" title="Gmail">
-      <img width="22" src="images/google-gmail-svgrepo-com.svg"> Gmail</a>
-    </code>
-  </span>
-</h5>
+
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/abdalrahman-abdahla-b24693215/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    &nbsp;&nbsp;&nbsp; <!-- Adds three non-breaking spaces -->
+
   <code><a href="mailto:hamodi90.com@gmail.com" title="HackerRank Profile"><img width="22" src="images/google-gmail-svgrepo-com.svg"> gmail</a></code>
 
 </h5>
