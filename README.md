@@ -6,27 +6,33 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/abdalrahman-abdahla-b24693215/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-
-  <code><a href="mailto:hamodi90.com@gmail.com" title="Gmail"><img width="22" src="images/google-gmail-svgrepo-com.svg">Gmail</a></code>
+  <span>
+    <code><a href="https://www.linkedin.com/in/abdalrahman-abdahla-b24693215/" title="LinkedIn Profile">
+      <img width="22" src="images/linkedin.svg"> LinkedIn</a>
+    </code>
+  </span>
+  <span style="margin-left: 10px;">
+    <code><a href="mailto:hamodi90.com@gmail.com" title="Gmail">
+      <img width="22" src="images/google-gmail-svgrepo-com.svg"> Gmail</a>
+    </code>
+  </span>
 </h5>
-<br>
-<p align="center">
 
+
+<p align="center">
+  🎓 I am a software engineer graduated from <strong>Suez Canal University</strong>, Faculty of <strong>Computer Science</strong>.  
+  <br>
+  📚 I’m currently learning Computer Science and Software Engineering, especially <strong>Back-End Development</strong> and <strong>Mobile Application Development</strong>.  
+  <br>
+  🤓 Always eager to learn new things.  
+  <br>
+  💻 I am a Problem Solver on <a href="https://codeforces.com">Codeforces</a>.  
   <br>
   <br>
-  🎓 I am a software engineer graduated from ** Suez Canal University,** Faculty of **Computer Science**
-  <br>
-  📚 I’m currently learning Computer Science and Software Engineering especially 'backEnd' and 'Mobile Application'
-  <br>
-  🤓 Always learning new things.
-  <br>
-  💻 I am a Problem Solver at 'Codeforces'
-  <br>
-  <br>
-🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+  🤔 I’m currently open for a new <strong>job opportunity</strong>. You can view <a href="http://lnkiy.in/Ahmed_Hossam_Resume" target="_blank">MY RESUME</a>.  
   <br>
 </p>
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -74,7 +80,7 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanAyman90&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
@@ -86,13 +92,13 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AbdelrahmanAyman90/downYouTube" title="dwonTotub"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman90&repo=downYouTube&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AbdelrahmanAyman90/Bus-Station" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman90&repo=Bus-Station&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AbdelrahmanAyman90/BookApp" title="bookapp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman90&repo=BookApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AbdelrahmanAyman90/Flutter_eCommerce_shop" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanAyman90&repo=Flutter_eCommerce_shop&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
