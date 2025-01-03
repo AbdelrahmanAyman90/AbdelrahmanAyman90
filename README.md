@@ -23,8 +23,8 @@
   💻 I am a Problem Solver on Codeforces 
   <br>
   <br>
-  🤔 I’m currently open for a new <strong>job opportunity</strong>. You can view <a href="http://lnkiy.in/Ahmed_Hossam_Resume" target="_blank">MY RESUME</a>.  
-  <br>
+<!--   🤔 I’m currently open for a new <strong>job opportunity</strong>. You can view <a href="http://lnkiy.in/Ahmed_Hossam_Resume" target="_blank">MY RESUME</a>.  
+  <br> -->
 </p>
 
 
